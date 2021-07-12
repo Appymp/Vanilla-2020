@@ -2,7 +2,8 @@
 For viewing the code notebooks, it is better to click on the corresponding nbviewer rendered links in the below document. 
 
 The most recent data used was collected in 2020. The 2021 notebooks are based on this data. There are totally only 2 years of data available, 2019 and 2020. Out of this the 2019 data does not fully cover the flowering season, and has much lesser data. 
-Check out the the preliminary research paper in the Vanilla-2019 repo: https://github.com/Appymp/Vanilla-2019
+Check out the the preliminary research paper in the Vanilla-2019 repo: https://github.com/Appymp/Vanilla-2019.
+
 Also, you can find a study I did on the data available on the FAO website on vanilla for the past 10 years: https://github.com/Appymp/Datamining_Vanilla_poster
 
 
