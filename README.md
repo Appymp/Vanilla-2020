@@ -1,4 +1,5 @@
 # Vanilla-2020
+For viewing the code notebooks, it is better to click on the corresponding nbviewer rendered links in the below document. 
 
 The most recent data used was collected in 2020. The 2021 notebooks are based on this data. There are totally only 2 years of data available, 2019 and 2020. Out of this the 2019 data does not fully cover the flowering season, and has much lesser data. However you can check the Vanilla-2019 repo on my github for the preliminary research documented. 
 
@@ -12,6 +13,9 @@ The technology that I envision involves having an automatic data collection on t
 2021 updated Visualizations season: https://nbviewer.jupyter.org/github/Appymp/Vanilla-2020/blob/master/Vanilla_2021_May.ipynb
 
 YOLO model for identifying new_flowers from video. The model was trained on very few (about 130) images, which were augmented by a range of cropping,saturation and exposure variations. So totally the model was trained on just about 490 images. 
+https://nbviewer.jupyter.org/github/Appymp/Vanilla-2020/blob/master/Vanilla_apps_Roboflow-Custom-YOLOv5.ipynb
+
+
 Pending coding work:
 - Counting the flowers for a particular location.
 - Localize the count to the individual vine locations and map them. 
