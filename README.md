@@ -1,4 +1,9 @@
 # Vanilla-2020
+
+
+"Flo counter" selected as one of the 10 finalists in Make it Agri Season 3! https://makeitagri.org/finalistes-saison-3/
+
+
 For viewing the code notebooks, it is better to click on the corresponding nbviewer rendered links in the below document. 
 
 The most recent data used was collected in 2020. The 2021 notebooks are based on this data. There are totally only 2 years of data available, 2019 and 2020. Out of this the 2019 data does not fully cover the flowering season, and has much lesser data. 
